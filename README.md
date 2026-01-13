@@ -1,4 +1,7 @@
-## Hi there 👋
+- former LuaU developer of 7 years
+- avid python hater
+- avid c++ hater
+- if i had a gun i'd shoot myself
 
 <!--
 **infinite2d/infinite2d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
